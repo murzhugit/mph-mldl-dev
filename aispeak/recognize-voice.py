@@ -1,5 +1,5 @@
 # @Author: mphz
-# @Program: new_recoaudio.py                                                                                                   
+# @Program: recognize-voice.py                                                                                                   
 # @Description: use Baidu AipSpeech to recognize voice
 
 from aip import AipSpeech
