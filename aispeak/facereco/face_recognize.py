@@ -35,7 +35,7 @@ if __name__ == "__main__":
 	print('-->begin!! to recognize-->')
 
 	#text to reco
-	ret = plz.beginReco('murphyface.jpg')
+	ret = plz.beginReco('grace_hopper.jpg')
 
 	#done
 	elapsed_time = time.time() - start_time

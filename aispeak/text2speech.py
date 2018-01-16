@@ -38,7 +38,7 @@ class ReadPlz:
 		for t in alltexts:
 			tresult = self.aipSpeech.synthesis(t, 'zh', 1, {
 		    	'vol': 7,
-		    	'per': 4,
+		    	'per': 3,
 		    	'pip': 3,
 		    	'spd': 5
 			})
