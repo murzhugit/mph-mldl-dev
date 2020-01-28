@@ -82,5 +82,5 @@ pyobjc-framework-SystemConfiguration==3.2.1
 pyobjc-framework-WebKit==3.2.1
 pyttsx3==2.6
 six==1.10.0
-tensorflow==1.2.0
+tensorflow==1.15.2
 Werkzeug==0.12.2
